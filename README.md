@@ -7,6 +7,5 @@ Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
 
 ## Data Cleansing and Manipulation
 
- update products
-SET products.Margin = rand()*(0.5--0.5)+-0.5
-where Margin IS Null
+ 'update products_complete SET products_complete.margin 
+= rand()*(0.5--0.02)+-0.02 where Margin IS Null'
