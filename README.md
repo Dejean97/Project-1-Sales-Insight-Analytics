@@ -13,7 +13,7 @@ Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
 ## Insights Highlights
 - Sales volume and profit trending down in all regions, following 2018 peak
 
-
+![](Images/Sales%20Insights%20Dashboard.png)
 
 ## Potential Next Steps
 - Source customer data from CRM system to carry out segmentation and develop sales strategy
