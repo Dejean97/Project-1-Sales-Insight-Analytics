@@ -8,7 +8,7 @@ Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
 ## Data Cleansing and Manipulation
 
 Add in Margin field in products table
-'
+- '
 
 Added in a random margin between -0.02 & 0.05, for the sake of trending profitability
 - 'update products_complete SET products_complete.margin 
@@ -24,3 +24,4 @@ Added in a random margin between -0.02 & 0.05, for the sake of trending profitab
 
 ## Potential Next Steps
 - Source customer data from CRM system to carry out segmentation and develop sales strategy
+- Investigate the viability of markets in the South, particularly Southampton & Bristol
