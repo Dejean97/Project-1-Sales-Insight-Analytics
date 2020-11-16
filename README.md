@@ -8,7 +8,7 @@ Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
 ## Data Cleansing and Transformation
 
 Cleanse Product_type, some records were 'Own Brand\n' or 'Own Brand/r' for both Own Brand and Distribution product types
-- e.g 'update products_complete 
+- e.g 'update products_complete    
 set product_type = 'Own Brand'  
 where product_type = 'Own Brand\n';
 
