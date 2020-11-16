@@ -1,4 +1,4 @@
-# Project1: Sales Insight Analytics
+# Project 1: Sales Insight Analytics
 Cleansing and presenting basic transactional data to produce sales insights using MySQL &amp; Tableau
 
 ## Resources Used
@@ -19,6 +19,7 @@ Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
 
 - Linked Tableau to MySQL server
 - Joined customers, date, markets & products_complete to new_transactions
+- Created profit field from new_transactions.sales_amount and products_complete.margin
 
 ## Insights Highlights
 - Sales volume and profit trending down in all regions, following 2018 peak
