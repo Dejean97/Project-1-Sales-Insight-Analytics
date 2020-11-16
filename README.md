@@ -7,7 +7,12 @@ Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
 
 ## Data Cleaning
 
-*Replaced markets_name with UK city names
+Replaced markets_name with UK city names
+Created exchange_rates table, USD & INR to GBP rates
+Created new_transactions with GBP currency and converted sales_amount
+Added missing product_code from new_transactions to products_complete
+Added margin field, with margin values between -0.02 and 0.5 to report profit trends
+
 
 
 ## Insights Highlights
