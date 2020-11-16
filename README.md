@@ -7,13 +7,15 @@ Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
 
 ## Data Cleaning
 
-Replaced markets_name with UK city names   
-Created exchange_rates table, USD & INR to GBP rates   
-Join transaction and exchange rates to create new_transactions with GBP currency and converted sales_amount   
-Added missing product_code from new_transactions to products_complete   
-Added margin field, with margin values between -0.02 and 0.5 to report profit trends   
-Removed 2 records with negative sales amounts    
-Corrected product_type for inaccuracies e.g 'Own Brand/r'
+- Replaced markets_name with UK city names   
+- Created exchange_rates table, USD & INR to GBP rates   
+- Join transaction and exchange rates to create new_transactions with GBP currency and converted sales_amount   
+- Added missing product_code from new_transactions to products_complete   
+- Added margin field, with margin values between -0.02 and 0.5 to report profit trends   
+- Removed 2 records with negative sales amounts    
+- Corrected product_type for inaccuracies e.g 'Own Brand/r'
+
+## Data Loading
 
 
 
