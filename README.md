@@ -17,7 +17,8 @@ Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
 
 ## Data Loading
 
-
+- Linked Tableau to MySQL server
+- Joined customers, date, markets & products_complete to new_transactions
 
 ## Insights Highlights
 - Sales volume and profit trending down in all regions, following 2018 peak
