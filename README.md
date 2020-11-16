@@ -16,8 +16,9 @@ Add in Margin field in products table
 - '
 
 Added in a random margin between -0.02 & 0.05, for the sake of trending profitability
-- 'update products_complete SET products_complete.margin 
-= rand()*(0.5--0.02)+-0.02 where Margin IS Null'
+- 'update products_complete  
+SET products_complete.margin = rand()*(0.5--0.02)+-0.02    
+where Margin IS Null'
 
 ## Insights Highlights
 - Sales volume and profit trending down in all regions, following 2018 peak
